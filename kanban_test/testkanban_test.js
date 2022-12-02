@@ -1,5 +1,5 @@
 let kanbanTestTable = new DataTable(['アカウントID', 'password',  'username']);
-kanbanTestTable.add(['yoshinoqa+ta003@gmail.com','password','KazuhiroAuto']);
+kanbanTestTable.add(['ここにログインID','ここにパスワード','ここにユーザー名']);
 
 Feature('kanban');
 
